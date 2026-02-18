@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1770926587473,
+    "email": "nistorcipi424@gmail.com",
+    "password": "ciprian2012345678",
+    "role": "owner",
+    "activeSession": true
+  },
+  {
+    "id": 1770926706310,
+    "email": "lucarusu249@gmail.com",
+    "password": "ciprian2012345678",
+    "role": "owner",
+    "activeSession": true
+  },
+  {
+    "id": "72ceefaa-1479-451c-b22a-28232fea4293",
+    "email": "rusuluca552@gmail.com",
+    "password": "$2b$12$XNM5rgclYzasmD9Z0.rUy.dAWUiC56Ckc2LOeTlaVAMWKOb4Sh7pW",
+    "role": "user",
+    "vipExpires": 1774017254236
+  },
+  {
+    "id": "468049cc-a887-4607-9545-b4842be6ba6a",
+    "email": "mariaaenurusuu@gmail.com",
+    "password": "$2b$12$efPJxzj7NTOIdFiOy3FEXeo8xkFCpA5MTSEtGpOYHwsEexIbTy8Tq",
+    "role": "vip",
+    "vipExpires": 1774028158392
+  }
+]

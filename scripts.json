@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "name": "Aimbot Script",
+    "description": "Premium aimbot system with advanced tracking",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 7
+  },
+  {
+    "id": "2",
+    "name": "ESP Script",
+    "description": "Wallhack ESP tool for enhanced visibility",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 5
+  },
+  {
+    "id": "3",
+    "name": "Speed Hack Executor",
+    "description": "Advanced speed and movement manipulation",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 6
+  },
+  {
+    "id": "4",
+    "name": "Anti-Cheat Bypass",
+    "description": "Comprehensive anti-cheat evasion system",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 9
+  },
+  {
+    "id": "5",
+    "name": "Radar Script",
+    "description": "Real-time player position radar",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 5
+  },
+  {
+    "id": "6",
+    "name": "Flight Mode Executor",
+    "description": "Unlimited flight and teleportation",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 8
+  },
+  {
+    "id": "7",
+    "name": "God Mode Script",
+    "description": "Invincibility and unlimited resources",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 10
+  },
+  {
+    "id": "8",
+    "name": "Auto-Aim Trigger Bot",
+    "description": "Instant shot detection and firing",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 8
+  },
+  {
+    "id": "9",
+    "name": "Crosshair Predictor",
+    "description": "Advanced bullet prediction system",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 7
+  },
+  {
+    "id": "10",
+    "name": "Resource Generator",
+    "description": "Unlimited item and currency spawner",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 4
+  },
+  {
+    "id": "11",
+    "name": "Wave Executor",
+    "description": "Powerful Lua script executor with stability",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 10
+  },
+  {
+    "id": "12",
+    "name": "Vulcan Executor",
+    "description": "Advanced multi-game execution platform",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 9
+  },
+  {
+    "id": "13",
+    "name": "Delta Executor",
+    "description": "High-performance script execution engine",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "14",
+    "name": "Exploit Kit Pro",
+    "description": "Complete exploitation toolkit with utilities",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 10
+  },
+  {
+    "id": "15",
+    "name": "Synapse Emulator",
+    "description": "Advanced game environment simulator",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 9
+  },
+  {
+    "id": "16",
+    "name": "Oxygen Executor",
+    "description": "Lightweight yet powerful script executor",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 6
+  },
+  {
+    "id": "17",
+    "name": "Phantom Hacks Suite",
+    "description": "All-in-one hacking and mod suite",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 10
+  },
+  {
+    "id": "18",
+    "name": "Nova Injector",
+    "description": "Advanced DLL injection system",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 7
+  },
+  {
+    "id": "19",
+    "name": "Nebula Framework",
+    "description": "Universal game modification framework",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 9
+  },
+  {
+    "id": "20",
+    "name": "Shadow Bypass",
+    "description": "Stealth mode and detection evasion",
+    "category": "executors",
+    "vipOnly": true,
+    "price": 8
+  },
+  {
+    "id": "21",
+    "name": "Roblox Script Hub",
+    "description": "Free community script repository",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "22",
+    "name": "Krnl Executor",
+    "description": "Reliable free script executor",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "23",
+    "name": "JJSploit",
+    "description": "Simple and effective free exploiter",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "24",
+    "name": "Fluxus Executor",
+    "description": "User-friendly free execution platform",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "25",
+    "name": "Script Builder Pro",
+    "description": "Free script creation and execution tool",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "26",
+    "name": "Basic Mod Menu",
+    "description": "Essential free modification utilities",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "27",
+    "name": "Free Teleport Script",
+    "description": "Quick and simple teleportation tool",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "28",
+    "name": "Chat Spammer Lite",
+    "description": "Free basic chat automation tool",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "29",
+    "name": "Universal Executor",
+    "description": "Free cross-game execution engine",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "30",
+    "name": "Community Tools Pack",
+    "description": "Free collection of essential hacking tools",
+    "category": "executors",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "31",
+    "name": "Roblox Account - Level 50",
+    "description": "High-level Roblox account with items",
+    "category": "accounts",
+    "vipOnly": false,
+    "price": 5
+  },
+  {
+    "id": "32",
+    "name": "Roblox Account - Premium 1 Year",
+    "description": "Premium membership account included",
+    "category": "accounts",
+    "vipOnly": false,
+    "price": 8
+  },
+  {
+    "id": "33",
+    "name": "Roblox Account - Verified",
+    "description": "Email verified account with history",
+    "category": "accounts",
+    "vipOnly": false,
+    "price": 6
+  },
+  {
+    "id": "34",
+    "name": "Game Account Bundle",
+    "description": "Multiple gaming accounts package",
+    "category": "accounts",
+    "vipOnly": false,
+    "price": 10
+  },
+  {
+    "id": "35",
+    "name": "Advanced Lua Script Pack",
+    "description": "Collection of 50+ custom Lua scripts",
+    "category": "scripts",
+    "vipOnly": true,
+    "price": 9
+  },
+  {
+    "id": "36",
+    "name": "Game Modding Scripts",
+    "description": "Comprehensive game modification scripts",
+    "category": "scripts",
+    "vipOnly": true,
+    "price": 7
+  },
+  {
+    "id": "37",
+    "name": "Automation Scripts Collection",
+    "description": "Bot and automation script library",
+    "category": "scripts",
+    "vipOnly": false,
+    "price": 5
+  },
+  {
+    "id": "38",
+    "name": "Premium Script Library",
+    "description": "1000+ premium ready-to-use scripts",
+    "category": "scripts",
+    "vipOnly": true,
+    "price": 10
+  },
+  {
+    "id": "39",
+    "name": "Free Script Starter Pack",
+    "description": "Beginner friendly script collection",
+    "category": "scripts",
+    "vipOnly": false,
+    "price": 0
+  },
+  {
+    "id": "40",
+    "name": "Custom Script Service",
+    "description": "Create custom scripts for your needs",
+    "category": "scripts",
+    "vipOnly": true,
+    "price": 8
+  }
+]
